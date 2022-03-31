@@ -8,7 +8,7 @@ The sample dataset we will be using is obtained from the UCI Machine Learning Re
 "https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv”, a Github location. Use the GitHub link in 
 your Python code to “read” the data into a Data-frame. 
 
-        cardiodis = pd.read_csv('https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv')  
+        movies = pd.read_csv('https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv')  
 
 ----------------------------------------------------------------------------------------- 
 ## Computer Assignment Road Map
